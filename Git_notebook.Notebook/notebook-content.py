@@ -13,9 +13,7 @@
 
 # Welcome to your new notebook
 # Type here in the cell editor to add code!
-#THIS IS A DEV NOTEBOOK
-#now again chanegs made for test github
-#this is written in git dev branc
+#new git notebook
 
 # METADATA ********************
 
