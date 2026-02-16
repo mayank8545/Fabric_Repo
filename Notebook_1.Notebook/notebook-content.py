@@ -38,6 +38,7 @@ print("hello")
 # CELL ********************
 
 print("bye world")
+print("again world")
 
 # METADATA ********************
 
